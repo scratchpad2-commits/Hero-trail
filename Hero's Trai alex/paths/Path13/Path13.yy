@@ -1,0 +1,15 @@
+{
+  "$GMPath":"",
+  "%Name":"Path13",
+  "closed":false,
+  "kind":0,
+  "name":"Path13",
+  "parent":{
+    "name":"Game",
+    "path":"folders/Objects/Game.yy",
+  },
+  "points":[],
+  "precision":4,
+  "resourceType":"GMPath",
+  "resourceVersion":"2.0",
+}
