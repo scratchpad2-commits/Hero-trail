@@ -65,6 +65,7 @@
     {"id":{"name":"obj_barrel_big","path":"objects/obj_barrel_big/obj_barrel_big.yy",},},
     {"id":{"name":"obj_barrel_small","path":"objects/obj_barrel_small/obj_barrel_small.yy",},},
     {"id":{"name":"obj_button_parent","path":"objects/obj_button_parent/obj_button_parent.yy",},},
+    {"id":{"name":"obj_chest_open","path":"objects/obj_chest_open/obj_chest_open.yy",},},
     {"id":{"name":"obj_chest","path":"objects/obj_chest/obj_chest.yy",},},
     {"id":{"name":"obj_coin","path":"objects/obj_coin/obj_coin.yy",},},
     {"id":{"name":"obj_collision_parent","path":"objects/obj_collision_parent/obj_collision_parent.yy",},},
@@ -91,7 +92,9 @@
     {"id":{"name":"path_enemy_42","path":"paths/path_enemy_42/path_enemy_42.yy",},},
     {"id":{"name":"Path10","path":"paths/Path10/Path10.yy",},},
     {"id":{"name":"Path11","path":"paths/Path11/Path11.yy",},},
-    {"id":{"name":"Path13","path":"paths/Path13/Path13.yy",},},
+    {"id":{"name":"Path14","path":"paths/Path14/Path14.yy",},},
+    {"id":{"name":"Path15","path":"paths/Path15/Path15.yy",},},
+    {"id":{"name":"Path16","path":"paths/Path16/Path16.yy",},},
     {"id":{"name":"Path6","path":"paths/Path6/Path6.yy",},},
     {"id":{"name":"Path8","path":"paths/Path8/Path8.yy",},},
     {"id":{"name":"Path9","path":"paths/Path9/Path9.yy",},},
@@ -195,8 +198,8 @@
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
-    {"roomId":{"name":"rm_level_2","path":"rooms/rm_level_2/rm_level_2.yy",},},
     {"roomId":{"name":"rm_level_1","path":"rooms/rm_level_1/rm_level_1.yy",},},
+    {"roomId":{"name":"rm_level_2","path":"rooms/rm_level_2/rm_level_2.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

@@ -1,12 +1,12 @@
 {
   "$GMPath":"",
-  "%Name":"Path13",
+  "%Name":"Path14",
   "closed":false,
   "kind":0,
-  "name":"Path13",
+  "name":"Path14",
   "parent":{
-    "name":"Game",
-    "path":"folders/Objects/Game.yy",
+    "name":"Level",
+    "path":"folders/Objects/Level.yy",
   },
   "points":[],
   "precision":4,
