@@ -7,7 +7,7 @@
 /// @DnDArgument : "object" "obj_collision_parent"
 /// @DnDArgument : "not" "1"
 /// @DnDSaveInfo : "object" "obj_collision_parent"
-var l4FA8D836_0 = instance_place(xprevious, y, obj_collision_parent);
+var l4FA8D836_0 = instance_place(xprevious, y, [obj_collision_parent]);
 if (!(l4FA8D836_0 > 0))
 {
 	/// @DnDAction : YoYo Games.Movement.Jump_To_Point
@@ -36,7 +36,7 @@ else
 	/// @DnDArgument : "object" "obj_collision_parent"
 	/// @DnDArgument : "not" "1"
 	/// @DnDSaveInfo : "object" "obj_collision_parent"
-	var l4179BEC2_0 = instance_place(x, yprevious, obj_collision_parent);
+	var l4179BEC2_0 = instance_place(x, yprevious, [obj_collision_parent]);
 	if (!(l4179BEC2_0 > 0))
 	{
 		/// @DnDAction : YoYo Games.Movement.Jump_To_Point
@@ -62,8 +62,9 @@ else
 		/// @DnDComment : Otherwise just move back$(13_10)on both X and Y axes
 		/// @DnDParent : 6B1B2F31
 		/// @DnDArgument : "x" "xprevious"
+		/// @DnDArgument : "x_relative" "1"
 		/// @DnDArgument : "y" "yprevious"
-		x = xprevious;
+		x += xprevious;
 		y = yprevious;
 	}
 }

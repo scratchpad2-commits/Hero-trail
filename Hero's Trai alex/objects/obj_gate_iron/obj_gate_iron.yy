@@ -1,20 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"obj_barrel_big",
-  "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"obj_sword_attack","path":"objects/obj_sword_attack/obj_sword_attack.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_gate_iron",
+  "eventList":[],
   "managed":true,
-  "name":"obj_barrel_big",
+  "name":"obj_gate_iron",
   "overriddenProperties":[],
   "parent":{
     "name":"Level",
     "path":"folders/Objects/Level.yy",
   },
-  "parentObjectId":{
-    "name":"obj_collision_parent",
-    "path":"objects/obj_collision_parent/obj_collision_parent.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -33,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_barrel_big",
-    "path":"sprites/spr_barrel_big/spr_barrel_big.yy",
+    "name":"spr_gate_iron_1",
+    "path":"sprites/spr_gate_iron_1/spr_gate_iron_1.yy",
   },
   "spriteMaskId":null,
   "visible":true,
