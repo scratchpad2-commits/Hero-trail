@@ -2,9 +2,9 @@
 /// @DnDVersion : 1
 /// @DnDHash : 1362B03B
 /// @DnDComment : If Alarm 0 is deactivated
-/// @DnDArgument : "var" "alarm[1]"
+/// @DnDArgument : "var" "alarm[0]"
 /// @DnDArgument : "op" "1"
-if(alarm[1] < 0)
+if(alarm[0] < 0)
 {
 	/// @DnDAction : YoYo Games.Common.Variable
 	/// @DnDVersion : 1
@@ -38,6 +38,5 @@ if(alarm[1] < 0)
 	/// @DnDComment : Tell the Alarm 0 event to run after 20 frames$(13_10)$(13_10)After 20 frames that event will restart the level
 	/// @DnDParent : 1362B03B
 	/// @DnDArgument : "steps" "20"
-	/// @DnDArgument : "alarm" "1"
-	alarm_set(1, 20);
+	alarm_set(0, 20);
 }

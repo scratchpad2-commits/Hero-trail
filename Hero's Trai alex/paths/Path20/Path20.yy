@@ -1,0 +1,22 @@
+{
+  "$GMPath":"",
+  "%Name":"Path20",
+  "closed":true,
+  "kind":1,
+  "name":"Path20",
+  "parent":{
+    "name":"Enemies",
+    "path":"folders/Objects/Game/Enemies.yy",
+  },
+  "points":[
+    {"speed":100.0,"x":1760.0,"y":160.0,},
+    {"speed":100.0,"x":1737.39,"y":276.54913,},
+    {"speed":100.0,"x":1728.0,"y":416.0,},
+    {"speed":100.0,"x":1784.0406,"y":501.1694,},
+    {"speed":100.0,"x":1824.0,"y":352.0,},
+    {"speed":100.0,"x":1792.0,"y":224.0,},
+  ],
+  "precision":4,
+  "resourceType":"GMPath",
+  "resourceVersion":"2.0",
+}

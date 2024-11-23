@@ -1,0 +1,15 @@
+{
+  "$GMPath":"",
+  "%Name":"Path19",
+  "closed":true,
+  "kind":1,
+  "name":"Path19",
+  "parent":{
+    "name":"Enemies",
+    "path":"folders/Objects/Game/Enemies.yy",
+  },
+  "points":[],
+  "precision":4,
+  "resourceType":"GMPath",
+  "resourceVersion":"2.0",
+}
