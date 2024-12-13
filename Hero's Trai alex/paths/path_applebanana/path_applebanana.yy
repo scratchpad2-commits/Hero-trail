@@ -1,0 +1,22 @@
+{
+  "$GMPath":"",
+  "%Name":"path_applebanana",
+  "closed":true,
+  "kind":1,
+  "name":"path_applebanana",
+  "parent":{
+    "name":"Enemies",
+    "path":"folders/Objects/Game/Enemies.yy",
+  },
+  "points":[
+    {"speed":100.0,"x":992.0,"y":800.0,},
+    {"speed":100.0,"x":1807.9001,"y":730.5,},
+    {"speed":100.0,"x":1797.3817,"y":897.83026,},
+    {"speed":100.0,"x":1797.3817,"y":999.5,},
+    {"speed":100.0,"x":1765.0188,"y":999.5,},
+    {"speed":100.0,"x":1632.0,"y":864.0,},
+  ],
+  "precision":4,
+  "resourceType":"GMPath",
+  "resourceVersion":"2.0",
+}

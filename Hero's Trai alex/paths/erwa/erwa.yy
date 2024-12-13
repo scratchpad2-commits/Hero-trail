@@ -1,0 +1,21 @@
+{
+  "$GMPath":"",
+  "%Name":"erwa",
+  "closed":true,
+  "kind":1,
+  "name":"erwa",
+  "parent":{
+    "name":"Level",
+    "path":"folders/Objects/Level.yy",
+  },
+  "points":[
+    {"speed":100.0,"x":1888.0,"y":96.0,},
+    {"speed":100.0,"x":1856.0,"y":288.0,},
+    {"speed":100.0,"x":1880.3652,"y":517.9627,},
+    {"speed":100.0,"x":1910.9895,"y":260.07184,},
+    {"speed":100.0,"x":1920.0,"y":192.0,},
+  ],
+  "precision":4,
+  "resourceType":"GMPath",
+  "resourceVersion":"2.0",
+}
