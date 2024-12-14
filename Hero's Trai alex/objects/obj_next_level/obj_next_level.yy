@@ -1,11 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"obj_lever",
+  "%Name":"obj_next_level",
   "eventList":[
     {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_lever",
+  "name":"obj_next_level",
   "overriddenProperties":[],
   "parent":{
     "name":"Level",
@@ -25,15 +25,13 @@
   "physicsShape":1,
   "physicsShapePoints":[],
   "physicsStartAwake":true,
-  "properties":[
-    {"$GMObjectProperty":"","%Name":"gate_to_open","filters":[],"listItems":[],"multiselect":false,"name":"gate_to_open","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0","varType":4,},
-  ],
+  "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_lever",
-    "path":"sprites/spr_lever/spr_lever.yy",
+    "name":"spr_next_level",
+    "path":"sprites/spr_next_level/spr_next_level.yy",
   },
   "spriteMaskId":null,
   "visible":true,

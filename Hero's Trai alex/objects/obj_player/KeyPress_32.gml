@@ -11,7 +11,7 @@ var sword = instance_create_layer(x + 0, y + 0, "Instances", obj_sword_attack);
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
-/// @DnDHash : 0A81675F
-/// @DnDArgument : "expr" "image_xscale"
-/// @DnDArgument : "var" "sword.image_xscale"
-sword.image_xscale = image_xscale;
+/// @DnDHash : 6B0C6BB7
+/// @DnDArgument : "expr" "input_direction"
+/// @DnDArgument : "var" "sword.image_angle"
+sword.image_angle = input_direction;

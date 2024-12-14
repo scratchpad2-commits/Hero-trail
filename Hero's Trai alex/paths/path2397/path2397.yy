@@ -1,0 +1,23 @@
+{
+  "$GMPath":"",
+  "%Name":"path2397",
+  "closed":true,
+  "kind":0,
+  "name":"path2397",
+  "parent":{
+    "name":"Level",
+    "path":"folders/Objects/Level.yy",
+  },
+  "points":[
+    {"speed":100.0,"x":1024.0,"y":832.0,},
+    {"speed":100.0,"x":1344.0,"y":800.0,},
+    {"speed":100.0,"x":1376.0,"y":640.0,},
+    {"speed":100.0,"x":1328.3285,"y":746.79517,},
+    {"speed":100.0,"x":1216.0,"y":640.0,},
+    {"speed":100.0,"x":1120.0,"y":768.0,},
+    {"speed":100.0,"x":1056.0,"y":800.0,},
+  ],
+  "precision":4,
+  "resourceType":"GMPath",
+  "resourceVersion":"2.0",
+}
