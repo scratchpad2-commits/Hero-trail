@@ -1,0 +1,24 @@
+{
+  "$GMPath":"",
+  "%Name":"Pathwungus",
+  "closed":true,
+  "kind":1,
+  "name":"Pathwungus",
+  "parent":{
+    "name":"Sequences",
+    "path":"folders/Sequences.yy",
+  },
+  "points":[
+    {"speed":100.0,"x":2667.4888,"y":1210.1725,},
+    {"speed":100.0,"x":2501.3486,"y":1122.9387,},
+    {"speed":100.0,"x":2325.9595,"y":1249.6023,},
+    {"speed":100.0,"x":2338.3315,"y":1587.4235,},
+    {"speed":100.0,"x":2487.3264,"y":1628.2415,},
+    {"speed":100.0,"x":2554.3767,"y":1618.0514,},
+    {"speed":100.0,"x":2644.4797,"y":1621.0745,},
+    {"speed":100.0,"x":2689.793,"y":1550.0087,},
+  ],
+  "precision":4,
+  "resourceType":"GMPath",
+  "resourceVersion":"2.0",
+}

@@ -1,15 +1,16 @@
-/// @DnDAction : YoYo Games.Instances.Destroy_Instance
+/// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1
-/// @DnDHash : 017C8813
-instance_destroy();
+/// @DnDHash : 6F5929F2
+/// @DnDArgument : "steps" "1"
+alarm_set(0, 1);
 
-/// @DnDAction : YoYo Games.Particles.Effect
+/// @DnDAction : YoYo Games.Sequences.Sequence_Create
 /// @DnDVersion : 1
-/// @DnDHash : 7EC6A3D5
-/// @DnDArgument : "x_relative" "1"
-/// @DnDArgument : "y_relative" "1"
-/// @DnDArgument : "type" "4"
-/// @DnDArgument : "where" "1"
-/// @DnDArgument : "size" "2"
-/// @DnDArgument : "color" "$914e82aa"
-effect_create_above(4, x + 0, y + 0, 2, $914e82aa & $ffffff);
+/// @DnDHash : 6BED23D8
+/// @DnDArgument : "xpos_relative" "1"
+/// @DnDArgument : "ypos_relative" "1"
+/// @DnDArgument : "var" ""
+/// @DnDArgument : "sequenceid" "Sequence2"
+/// @DnDArgument : "layer" ""instances""
+/// @DnDSaveInfo : "sequenceid" "Sequence2"
+layer_sequence_create("instances", x + 0, y + 0, Sequence2);

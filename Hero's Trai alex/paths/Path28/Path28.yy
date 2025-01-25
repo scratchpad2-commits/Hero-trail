@@ -1,0 +1,20 @@
+{
+  "$GMPath":"",
+  "%Name":"Path28",
+  "closed":true,
+  "kind":1,
+  "name":"Path28",
+  "parent":{
+    "name":"Enemies",
+    "path":"folders/Objects/Game/Enemies.yy",
+  },
+  "points":[
+    {"speed":100.0,"x":218.0,"y":-19.0,},
+    {"speed":100.0,"x":305.0,"y":140.0,},
+    {"speed":100.0,"x":400.0,"y":8.0,},
+    {"speed":100.0,"x":328.0,"y":-40.0,},
+  ],
+  "precision":4,
+  "resourceType":"GMPath",
+  "resourceVersion":"2.0",
+}

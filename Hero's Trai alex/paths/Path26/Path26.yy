@@ -1,0 +1,19 @@
+{
+  "$GMPath":"",
+  "%Name":"Path26",
+  "closed":true,
+  "kind":1,
+  "name":"Path26",
+  "parent":{
+    "name":"Enemies",
+    "path":"folders/Objects/Game/Enemies.yy",
+  },
+  "points":[
+    {"speed":100.0,"x":4052.0,"y":2322.0,},
+    {"speed":100.0,"x":4129.0,"y":2341.0,},
+    {"speed":100.0,"x":4000.0,"y":2370.0,},
+  ],
+  "precision":4,
+  "resourceType":"GMPath",
+  "resourceVersion":"2.0",
+}

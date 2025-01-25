@@ -1,0 +1,19 @@
+{
+  "$GMPath":"",
+  "%Name":"Path30",
+  "closed":true,
+  "kind":1,
+  "name":"Path30",
+  "parent":{
+    "name":"Level",
+    "path":"folders/Objects/Level.yy",
+  },
+  "points":[
+    {"speed":100.0,"x":4434.0,"y":1631.0,},
+    {"speed":100.0,"x":4608.0,"y":1792.0,},
+    {"speed":100.0,"x":4437.0,"y":1836.0,},
+  ],
+  "precision":4,
+  "resourceType":"GMPath",
+  "resourceVersion":"2.0",
+}
